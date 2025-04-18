@@ -1,6 +1,6 @@
 ## Accurate prediction of virulence factors using pre-train protein language model and ensemble learning
 
-This is the repository related to our manuscript Accurate prediction of virulence factors using pre-train protein language model and ensemble learning, currently in submission at Journal of Chemical Information and Modeling.
+This is the repository related to our manuscript Accurate prediction of virulence factors using pre-train protein language model and ensemble learning, currently in submission at BMC Genomics.
 
 ## Code
 ### Environment Requirement
